@@ -19,7 +19,8 @@ This instruction manual and the comments in the file are written in Japanese. Pl
 2. ワールドデータ
 3. ダウンロードした3つのpythonファイル(main.py, function.py, settings.py)
 4. pythonを実行できる環境(自分で調べてください。私に聞かないでください。)
-5. pythonファイルの記述と実行ができるテキストエディタ(VSCodeなどを推奨しています)
+5. MCRcon(事前にインストールをしてください。調べたら私の記事が出るかも...)
+6. pythonファイルの記述と実行ができるテキストエディタ(VSCodeなどを推奨しています)
 
 ## 実行準備
 以上のものを準備した後、テキストエディタから「python main.py」を1回実行してください。<br>
